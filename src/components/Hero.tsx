@@ -45,7 +45,7 @@ function Hero() {
                         <h1 className=' text-red-500 lg:text-2xl text-xl font-bold'>100+ </h1>
                         <p className=' text-sm font-semibold'>Restaurants </p>
                     </div>
-					<img src={tomatocut} alt="tomato" className='absolute w-32 bottom-20 left-4'/>
+					<img src={tomatocut} alt="tomato" className='absolute w-32 bottom-20 left-12'/>
 				</div>
 			</div>
 		</div>
