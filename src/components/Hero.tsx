@@ -4,7 +4,6 @@ import appstore from '../assets/appstore.png'
 import time from '../assets/time.png'
 import star from '../assets/star.png'
 import starOutline from '../assets/star-outline.png'
-import cabbage from '../assets/cabbage.png'
 import tomatocut from '../assets/tomatocut.png'
 
 function Hero() {
@@ -48,7 +47,6 @@ function Hero() {
                     </div>
 					<img src={tomatocut} alt="tomato" className='absolute w-32 bottom-20 left-4'/>
 				</div>
-				<img src={cabbage} alt="cabbage" className='absolute top-[440px] left-5 w-44 z-0' />
 			</div>
 		</div>
 	);
