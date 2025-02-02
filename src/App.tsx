@@ -1,5 +1,6 @@
 import Navbar from './components/Navbar.tsx'
 import Hero from './components/Hero.tsx'
+import PopularDishes from './components/PopularDishes.tsx'
 import './App.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
      <Navbar/>
      <Hero/>
+     <PopularDishes/>
     </>
   )
 }
